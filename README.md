@@ -35,9 +35,6 @@ I'm a Junior Computer Science student at the University of South Florida 🇺�
 
 - 🎤 **Conference Planning Chair – NSBE USF**  
   Led planning for the National Convention, coordinated outreach events, and collaborated with companies.
-    
-- 💡 **Google Developer Student Club** – Professional Development Lead  
-  Focused on empowering students through workshops and career preparation.
 
 - 🛠 **NSF Safe Teams – Research Advisory Board**  
   Bridged student-faculty communication and promoted undergraduate research in engineering.
