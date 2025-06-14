@@ -6,18 +6,19 @@
 
 ## 💻 About Me
 
-I'm a Junior Computer Science student at the University of South Florida 🇺🇸, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development, autonomous vehicle software, and AI-driven systems.
+I'm a Junior Computer Science student at the University of South Florida 🇺🇸, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development, autonomous vehicle software, quantitative modeling and AI-driven systems.
 
-🤖 Currently diving deep into **Computer Vision** and **AI for perception systems**, exploring techniques like **convolutional neural networks (CNNs)**, **gesture recognition**, and **autonomous decision-making** to support real-world applications like self-driving cars and human-machine interaction.
+📊 I’m also deeply interested in financial markets and stock investing, currently working on an options pricing project using the Black-Scholes-Merton model.
 
 
 ---
 
 ## 🧠 Interests & Projects
 
-- **Autonomous Driving**: Building CNNs to interpret non-verbal human gestures for AV perception.
+- **Autonomous Driving**: Building CNNs to differentiate between binary image inputs.
 - **Full-Stack Development**: Built websites using React, Node.js, Express, SQL, and Chart.js.
-- **Simulation & Robotics**: Hands-on with sensor modeling, Arduino, vehicle-to-vehicle communication, and traffic simulation.
+- **Finance & Modeling**: Developing tools for pricing options using mathematical models.
+- **Embedded Systems**: Gaining hands-on experience with microcontrollers and low-level programming.
 
 ---
 
@@ -46,8 +47,8 @@ I'm a Junior Computer Science student at the University of South Florida 🇺�
 
 ## 🎯 Goals
 
-- Secure internships in autonomous systems or full-stack product development (Target companies: Zoox, Microsoft, Meta)
-- Build a strong portfolio of impactful AI and simulation-based projects
+- Secure internships in autonomous systems, embedded development or full-stack product development (Target companies: Zoox, Microsoft, Meta)
+- Build a strong portfolio of impactful technical and finance-related projects
 - Continue leading, learning, and innovating through community and collaboration
 
 ---
