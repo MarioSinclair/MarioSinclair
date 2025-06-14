@@ -28,7 +28,7 @@ I'm a Junior Computer Science student at the University of South Florida ðŸ‡ºðŸ‡
 `Python` `JavaScript` `SQL` `C` `HTML` `CSS`
 
 **Frameworks & Tools**  
-`React.js` `Node.js` `Express.js` `Chart.js` `GTSAM` `Simulink` `MongoDB` `Arduino`
+`React.js` `Node.js` `Express.js` `Chart.js` `GTSAM` `Flask` `FastAPI` `MongoDB` `Arduino`
 
 ---
 
