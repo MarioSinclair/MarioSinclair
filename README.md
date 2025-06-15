@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Mario!
 
-🎓 **Computer Science Student** | 🧠 Passionate About Autonomous Systems | 📈 Fascinated by Financial Markets
+🎓 **Computer Science Junior @USF** | 🧠 Passionate About Autonomous Systems | 📈 Fascinated by Financial Markets
 
 ---
 
 ## 💻 About Me
 
-I'm a Junior Computer Science student at the University of South Florida 🇺🇸, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development, autonomous vehicle software, quantitative modeling and AI-driven systems.
+I'm a Junior Computer Science student at the University of South Florid, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development, autonomous vehicle software, quantitative modeling and AI-driven systems.
 
 📊 I’m also deeply interested in financial markets and stock investing, currently working on an options pricing project using the Black-Scholes-Merton model.
 
@@ -18,14 +18,14 @@ I'm a Junior Computer Science student at the University of South Florida 🇺�
 - **Autonomous Driving**: Building CNNs to differentiate between binary image inputs.
 - **Full-Stack Development**: Built websites using React, Node.js, Express, SQL, and Chart.js.
 - **Finance & Modeling**: Developing tools for pricing options using mathematical models.
-- **Embedded Systems**: Gaining hands-on experience with microcontrollers and low-level programming.
+- **Embedded Systems**: Gaining hands-on experience with microcontrollers (MSP430) and low-level programming (C, MSP430 Assembly Language).
 
 ---
 
 ## 🔨 Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `SQL` `C` `HTML` `CSS`
+`Python` `C` `HTML` `CSS` `JavaScript` `SQL`
 
 **Frameworks & Tools**  
 `React.js` `Node.js` `Express.js` `Flask` `FastAPI` `Chart.js` `GTSAM` `MongoDB` `Arduino`
