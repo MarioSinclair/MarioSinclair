@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mario!
 
-🎓 **Computer Science Student** | 🧠 Passionate About Autonomous Systems
+🎓 **Computer Science Student** | 🧠 Passionate About Autonomous Systems | 📈 Fascinated by Financial Markets
 
 ---
 
