@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-I'm a Junior Computer Science student at the University of South Florid, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development, autonomous vehicle software and quantitative modeling.
+I'm a Junior Computer Science student at the University of South Florid, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development and quantitative modeling.
 
 📊 I’m also deeply interested in financial markets and stock investing, currently working on an options pricing project using the Black-Scholes-Merton model.
 
