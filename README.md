@@ -25,10 +25,10 @@ I'm a Junior Computer Science student at the University of South Florid, passion
 ## 🔨 Tech Stack
 
 **Languages**  
-`Python` `C` `HTML5` `CSS3` `JavaScript` `SQL` `Assembly`
+`Python` `C` `HTML5` `CSS3` `JavaScript` `TypeScript` `SQL` `Assembly`
 
 **Frameworks & Tools**  
-`React.js` `Node.js` `Express.js` `Flask` `FastAPI` `Chart.js` `GTSAM` `MongoDB`
+`React.js` `Node.js` `Express.js` `Flask` `FastAPI` `Chart.js` `MongoDB` `GTSAM`
 
 ---
 
