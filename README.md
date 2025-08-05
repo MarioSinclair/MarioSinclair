@@ -17,6 +17,7 @@ I'm a Junior Computer Science student at the University of South Florid, passion
 
 - **Autonomous Driving**: Building CNNs to differentiate between binary image inputs.
 - **Full-Stack Development**: Built websites using React, Node.js, Express, SQL, and Chart.js.
+  - Led the end-to-end development of the [USF NSBE website](https://www.usfnsbe.com/), from initial concept and design to deployment and ongoing maintenance.
 - **Finance & Modeling**: Developing tools for pricing options using mathematical models.
 - **Embedded Systems**: Gaining hands-on experience with microcontrollers (TI MSP430, Arduino Uno Rev3) and low-level programming (C, MSP430 Assembly Language).
 
