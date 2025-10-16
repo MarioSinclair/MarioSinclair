@@ -8,7 +8,7 @@
 
 I'm a Junior Computer Science student at the University of South Florid, passionate about bridging creativity and technical problem-solving through code. I focus on full-stack development and quantitative modeling.
 
- I’m also deeply interested in robotics and autonomous navigation, currently an Undergraduate researcher at the USF Reality, Autonomy and Robot Experience Lab (RARELab).
+ I’m also deeply interested in robotics and autonomous navigation, currently an undergraduate researcher at the USF Reality, Autonomy and Robot Experience Lab (RARELab).
 
 
 ---
