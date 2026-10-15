@@ -25,7 +25,6 @@ location:   Tampa, FL
 - **Latest:** Built Sherpa at HackGT 2026, a safe night-walking navigation app for Georgia Tech, now live at [appsherpa.tech](https://appsherpa.tech)
 - **At Delta:** SQL pipelines in Palantir Foundry for 900+ aircraft and a TypeScript automation that saves the team about 15 hours a week
 - **Hackathons:** 2nd place at the InnoTech AI Hackathon (NSBE 2025) with EquiBull AI
-- **Ask me about:** ROS2 networking headaches, Palantir Foundry, options pricing
 
 ## Featured Builds
 
