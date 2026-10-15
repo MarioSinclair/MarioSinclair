@@ -91,10 +91,10 @@ Led a 2-person team from design to deployment for a 300+ member chapter.<br/>
 | **Tools** | <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,vercel" /> |
 
 ## Let's Connect
-<img src="https://komarev.com/ghpvc/?username=MarioSinclair&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" />
 <a href="https://www.linkedin.com/in/mario-sinclair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mario.sinclairbz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/MarioSinclair"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=MarioSinclair&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" />
 
 <div align="center">
 
