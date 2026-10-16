@@ -4,8 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Data+engineering+at+Delta+Air+Lines;Robotics+research+at+USF+RARE+Lab;Building+autonomy+for+NASA+Lunabotics;Shipping+full-stack+apps+and+LLM+agents" alt="Typing intro" />
 
-<a href="https://www.linkedin.com/in/mario-sinclair/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mario.sinclairbz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://mariosinclair.com/"><img src="https://img.shields.io/badge/Check_me_out_on-My_Website-FFD200?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/mario-sinclair/"><img src="https://img.shields.io/badge/Connect_with_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:mario.sinclairbz@gmail.com"><img src="https://img.shields.io/badge/Say_hi_by-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+
 
 
 </div>
